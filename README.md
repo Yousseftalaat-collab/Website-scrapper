@@ -11,7 +11,7 @@
 
 ---
 <ol>
-<h2>## 🧠 How It Works </h2>
+<h2>🧠 How It Works </h2>
 
  <li>ends an HTTP GET request to `https://books.toscrape.com/`</li>
    <li> Parses the HTML using `BeautifulSoup`</li>
@@ -25,14 +25,14 @@ Loops through each book element:
 
 ---
 </ol>
-<h3>## ▶️ How to Run</h3>
-<p>### 💻 Requirements
+<h3> ▶️ How to Run</h3>
+<p> 💻 Requirements
 
 - Python 3
 - `requests` and `beautifulsoup4` modules
 
-### 📦 Install Dependencies
-```bash
+ 📦 Install Dependencies
+
 pip install requests beautifulsoup4
 📥 Run the Script
 
