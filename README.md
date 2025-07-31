@@ -47,11 +47,11 @@ Book titled: Soumission has a rating of: One stars
 ...
 </p>
 
-<ol>🛠 Technologies Used
+<ul>Technologies Used
 <li>🐍 Python 3</li>
 
 <li>🌐 requests — for sending HTTP requests</li>
-</ol>
+</ul>
 
 <h3>👨‍💻 Author</h3>
 <p> Made with by Youssef Talaat</p>
